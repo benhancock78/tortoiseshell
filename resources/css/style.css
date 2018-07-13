@@ -10,26 +10,23 @@ html  {
   background-repeat: no-repeat;
   background-position: center;
   height: 30rem;
-  width:auto;
+  /* width:auto; */
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
 
 }
 
 .header-container {
-  margin: 0 auto;
+  /* margin: 0 auto; */
   background-color: cadetblue;
   width: 960px;
   display: inline-flex;
-  justify-content: space-between;
-  height: 3rem;
+  /* justify-content: space-between; */
+  /* height: 3rem; */
   margin-top: 1rem;
   border: 2px dotted tomato;
 }
 
-.head {
-
-}
 
 ul  {
 display: inline-flex;
@@ -58,12 +55,12 @@ li  {
 /* end of header */
 
 .dontlook-container {
-  position: relative;
+  /* position: relative; */
   font-size: 2rem;
   line-height: 1.2;
   font-weight: bold;
   background-color: white;
   padding: 1.5rem 5rem;
-  height: auto;
-  width: auto;
+  /* height: auto;
+  width: auto; */
 }
